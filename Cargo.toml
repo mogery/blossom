@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "blossom_js",
+    "blossom_repl",
+]
